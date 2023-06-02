@@ -18,10 +18,7 @@ namespace Ejercicio3
             Cargar(Vector2);
             Mostrar(Vector1);
             Mostrar(Vector2);
-
             Sumar(Vector1, Vector2);
-
-            Console.WriteLine("El vector resultante es: {0}",Sumar(Vector1,Vector2));
             Console.ReadKey();
         }
         static void Cargar(int[] vector)
@@ -39,10 +36,14 @@ namespace Ejercicio3
                 Console.WriteLine("El valor {0} del vector es:{1}",i+1, vector[i]);
             }
         }
-        static int Sumar(int[] vr1, int[] vr2) {
+        static void Sumar(int[] vr1, int[] vr2) {
+
             int[] vrf = new int[5];
-            vrf[5] = vr1[5]+vr2[5];
-            return vrf[5];
+            for(int i = 0; i <5; i++)
+            {
+                vrf[i] = vr1[i]+vr2[i];
+                Console.WriteLine("El resultado de la posicion {0} es:{1}",i+1,vrf[i]);
+            }
         }
     }
 }
