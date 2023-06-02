@@ -1,0 +1,8 @@
+C:\Users\monte\Documents\Tecnicatura\Tp-1-Programacion\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\monte\Documents\Tecnicatura\Tp-1-Programacion\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\monte\Documents\Tecnicatura\Tp-1-Programacion\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\monte\Documents\Tecnicatura\Tp-1-Programacion\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\monte\Documents\Tecnicatura\Tp-1-Programacion\Ejercicio1\obj\Debug\Ejercicio1.csproj.SuggestedBindingRedirects.cache
+C:\Users\monte\Documents\Tecnicatura\Tp-1-Programacion\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\monte\Documents\Tecnicatura\Tp-1-Programacion\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\monte\Documents\Tecnicatura\Tp-1-Programacion\Ejercicio1\obj\Debug\Ejercicio1.pdb
