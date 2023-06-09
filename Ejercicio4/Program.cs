@@ -14,6 +14,11 @@ namespace Ejercicio4
             Cargar(temperaturas);
             Console.WriteLine("Las temperaturas de la semana son:");
             Mostrar(temperaturas);
+            Array.Sort(temperaturas);
+            Console.WriteLine("Las temperaturas ordenadas de menor a mayor son:");
+            Mostrar(temperaturas);
+            Console.WriteLine("La menor temperatura es: {0}", temperaturas[0]);
+            Console.WriteLine("La mayor temperatura es: {0}", temperaturas[6]);
             Console.ReadKey();
         }
         static void Cargar(int[] ingresotemp )
