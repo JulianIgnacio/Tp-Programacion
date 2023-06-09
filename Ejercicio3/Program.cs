@@ -19,7 +19,6 @@ namespace Ejercicio3
             Mostrar(Vector1);
             Mostrar(Vector2);
             Sumar(Vector1, Vector2);
-            Console.ReadKey();
         }
         static void Cargar(int[] vector)
         {

@@ -19,7 +19,6 @@ namespace Ejercicio4
             Mostrar(temperaturas);
             Console.WriteLine("La menor temperatura es: {0}", temperaturas[0]);
             Console.WriteLine("La mayor temperatura es: {0}", temperaturas[6]);
-            Console.ReadKey();
         }
         static void Cargar(int[] ingresotemp )
         {

@@ -13,16 +13,14 @@ namespace Ejercicio1
             int[] Sueldos = new int[5];
             Cargar(Sueldos);
             Mostrar(Sueldos);
-            Console.ReadKey();
         }
         static void Cargar(int[] Sueldos)
         {
-            Console.WriteLine("Ingrese los sueldos");
-            Sueldos[0] = Convert.ToInt32(Console.ReadLine());
-            Sueldos[1] = Convert.ToInt32(Console.ReadLine());
-            Sueldos[2] = Convert.ToInt32(Console.ReadLine());
-            Sueldos[3] = Convert.ToInt32(Console.ReadLine());
-            Sueldos[4] = Convert.ToInt32(Console.ReadLine());
+            for(int  i = 0; i < Sueldos.Length; i++)
+            {
+                Console.Write("Ingrese el sueldo {0}", i + 1);
+                Sueldos[i] = Convert.ToInt32(Console.ReadLine());
+            }
         }
         static void Mostrar(int[] Sueldos)
         {

@@ -17,7 +17,6 @@ namespace Ejercicio2
             Array.Sort(Estudiantes);
             Console.WriteLine("Los estudiantes ordenados en orden alfabetico:");
             Mostrar(Estudiantes);
-            Console.ReadKey();
         }
         static void Cargar(string[] Estudiantes)
         {
