@@ -1,0 +1,8 @@
+C:\Users\monte\Documents\Tecnicatura\Tp-1-Programacion\Ejercicio5tp\bin\Debug\Ejercicio5tp.exe.config
+C:\Users\monte\Documents\Tecnicatura\Tp-1-Programacion\Ejercicio5tp\bin\Debug\Ejercicio5tp.exe
+C:\Users\monte\Documents\Tecnicatura\Tp-1-Programacion\Ejercicio5tp\bin\Debug\Ejercicio5tp.pdb
+C:\Users\monte\Documents\Tecnicatura\Tp-1-Programacion\Ejercicio5tp\obj\Debug\Ejercicio5tp.csproj.AssemblyReference.cache
+C:\Users\monte\Documents\Tecnicatura\Tp-1-Programacion\Ejercicio5tp\obj\Debug\Ejercicio5tp.csproj.SuggestedBindingRedirects.cache
+C:\Users\monte\Documents\Tecnicatura\Tp-1-Programacion\Ejercicio5tp\obj\Debug\Ejercicio5tp.csproj.CoreCompileInputs.cache
+C:\Users\monte\Documents\Tecnicatura\Tp-1-Programacion\Ejercicio5tp\obj\Debug\Ejercicio5tp.exe
+C:\Users\monte\Documents\Tecnicatura\Tp-1-Programacion\Ejercicio5tp\obj\Debug\Ejercicio5tp.pdb
