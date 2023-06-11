@@ -38,15 +38,7 @@ namespace Ejercicio5tp
             SumaSemanal(suma, semana4);
             Console.WriteLine("los valores de la suma de toda la semana son:");
             Mostrar(suma);
-            Array.Sort(suma);
-            Console.WriteLine("Los valores ordenados de menor a mayor son:");
-            Mostrar(suma);
-            Console.WriteLine("El valor menor es:{0}", suma[0]);
-            Console.WriteLine("El valor mayor es:{0}", suma[6]);
-            double promedio = suma.Average();
-            Console.WriteLine("su promedio es:{0}", promedio);
             SumaFinal(suma, sumatotal);
-            Console.ReadKey();
         }
         static void Cargar(int[] vector)
         {
